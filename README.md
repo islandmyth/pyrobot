@@ -6,7 +6,10 @@ python 3.9
 
 # Usage
 For user input you can run
-python pyrobot.py
-
+```
+$ python pyrobot.py 
+```
 To use the input.txt
-python pyrobot.py < input.txt
+```
+$ python pyrobot.py < input.txt
+```
